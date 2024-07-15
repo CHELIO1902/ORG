@@ -1,0 +1,4 @@
+paquetes instalados:
+"react-icons"
+"hex-to-rgba"
+"uuid"
